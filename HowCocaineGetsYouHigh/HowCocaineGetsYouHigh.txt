@@ -1,0 +1,27 @@
+It has been well known for some time that cocaine, after consumption,  can cause dangerous levels of addiction in it’s users. This addiction can then lead to an increase in theft and crime, as people will start to do whatever necessary to get hold of more of the drug.
+
+Of course, what causes this addiction in the first place?
+
+Cocaine, when used, stimulates specifics area of the brain, these being the mesolimbic pathways (commonly known as the reward pathway).
+Of course what do I mean by pathways?
+A pathway, when speaking about the brain, is a set of cells inside the brain. These cells are called neurons and they allow a signal to be sent from one region in the brain to another.
+So these mesolimbic pathways is where dopamine, a chemical which makes you feel good, is released by neurons.
+
+Normal function of the mesolimbic pathway:
+
+In a normal scenario dopamine is released, by a neuron, into a synapse.
+A synapse is basically an empty space between two neurons.
+The dopamine then binds to a dopamine receptor, a specialised protein, on a neighbouring neuron. This is done to allow dopamine to send signals from neuron to neuron.
+After use the dopamine must be removed from the synapse. This is done by having the dopamine bind with another protein, this one being a dopamine transporter (DAT).
+
+How cocaine affects the mesolimbic pathway:
+
+Of course, when using cocaine, this whole system is disrupted.
+Initially all will be well, so the dopamine reaches the synapse and binds with the dopamine receptor. It’s the DAT that is screwed over by cocaine.
+What will happen is that the cocaine will bind competitively with the DAT. Competitive binding occurs when two “competing” molecules try to bind to an active site (the area where a molecule binds to another molecule). So in this example the cocaine molecules will “compete” with the dopamine molecules to see which molecule binds to the DAT’s active site. This active site is seen in the diagrams as a dent in the DAT’s structure.
+As one might expect, this will lead to some strange things occuring.
+A dopamine overflow will then happen, since the DAT cannot remove them. This will then produce an amplified signal which is sent to the surrounding neurons.
+This amplified signal is what gives people their “high” when they use cocaine.
+
+The image below explains the concept I have been trying to get at. It highlights how the mesolimbic pathway is during normal functionality, so when eating food, and then shows how cocaine disrupts this functionality.
+

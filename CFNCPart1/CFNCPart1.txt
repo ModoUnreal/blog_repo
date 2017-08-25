@@ -1,0 +1,46 @@
+The atom is the building block of, well, everything. You have probably seen different representations of them in popular media, like the atom seen in transitions for The Big Bang Theory TV series.
+
+Aside from knowing of the existence of the atom most people, who don’t study/work in the field of chemistry, do not really know much about what the atom actually is or what it comprises of.
+So what is the atom made up of?
+Atoms are made up of different sub-atomic particles, so particles that are smaller than the actual atom. These sub-atomic particles are protons, neutrons and electrons.
+All sub-atomic particles have a designated electrical charge which can change according to it’s environment.
+Protons are particles with a positive charge, neutrons are particles with a neutral charge (so it doesn’t have a charge basically) and electrons have a negative charge.
+These sub-atomic particles are what make up an atom, so in a way they are the building blocks of the actual building blocks themselves.
+So, as of right now, we have an atom. Inside of it we can find different types of particles, all with different charges. The atom is, of course, an organised entity, meaning that all of these particles are organised in such a way that the atom works.
+Here is where I introduce the nucleus. This is basically the region at the centre of the atom. The nucleus is where the protons and neutrons reside.
+In this region is found a nuclear force which binds the protons and neutrons, however this force only acts over short distances so the electrons are left alone for now.
+At this point the diagram of the atom may look like this, so an atom with a nucleus filled with protons and neutrons in the centre of the atom.
+
+Before moving on to talking about electrons I would like to talk about elements.
+An element is an atom with a specific number of protons, neutrons and electrons.
+For example, an atom of oxygen has 8 protons, 8 neutrons and 8 electrons, whilst hydrogen has 1 proton and 1 electron (it doesn’t even have any neutrons).
+
+Now to talk about the electrons.
+I could spend the whole article talking in detail about the organisation of electrons within the atom, however this would elongate the read time to about 20 minutes at least.
+The next article will talk about electrons in as much detail needed, but for now I can begin to give you an image of how it roughly works (since understanding how electrons work can be a lengthy process).
+I will show you the Bohr model of the electron, since it provides the basic knowledge regarding how an electron is stored in an atom.
+
+So these shells can be broken down into sub-shells, which contain these things called atomic orbitals.
+As you might know, scientists really like to label things (they’re just like that for some reason). As a result sub-shells and orbitals have been assigned labels, these being s, p, d and f.
+
+In terms of orbitals, all types of orbitals (s, p, etc) carry two electrons.
+However, in terms of sub-shells, all the different types of sub-shells carry a different number of electrons.
+So s sub-shells carry 2 electrons, p subshells carry 6 electrons, d subshells carry 10 electrons and f subshells carry 14 electrons.
+
+Now the difference between the atomic orbitals is that they have different shapes.
+Here are a few diagrams showing the different shapes of these orbitals.
+
+There are also, as highlighted by the diagram just above, different types of shapes for f orbitals. I will address this in the next article, since I still haven’t fully grasped this concept myself.
+
+To properly learn the next pieces of theory regarding how electrons work you would probably have to invest another 10 minutes, which would completely ruin the whole point in making this series. Because of this I have decided to dedicate the next post to the rest of the theory regarding electrons, so the electron configuration of an atom, the Heisenberg uncertainty principle and also the Heisenberg model of the atom.
+
+A lot of ground has been covered in this post. From this post we have learnt that:
+
+* Everything is made of atoms, including ourselves.
+* The atom is made of multiple sub-atomic particles, and that these particles have their own distinctive charge.
+* All atoms have a nucleus, which consists of protons and neutrons.
+* What an element is.
+* That electrons are organised into shells, or energy levels, which are found around the nucleus.
+* Shells can be divided into sub-shells, which contain atomic orbitals.
+* There are different types of sub-shells which can each hold a different number of electrons.
+* There are different types of orbitals which have different shapes and that all orbitals can hold 2 electrons.
