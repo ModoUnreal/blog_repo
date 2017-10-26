@@ -1,0 +1,73 @@
+# Proteins and how they work
+Proteins are probably the best excuse your parents have used to get you to eat vegetables or healthy foods; of course most parents don't really know what proteins are and how they work, they just know that proteins exist and that they are benificial to one's own health.
+In this post I will explain just what proteins are and how they function, however I won't go over how they can specifically be beneficial to your health (this is just a general introduction to the world of proteins.)
+
+## Amino acids
+So proteins are made out of "building blocks" called amino acids (or proteins have amino acids as their monomers to put it in a more technical way).
+Amino acids have a structure like so:
+(WHITE BOARD DIAGRAM OF AMINO ACID)
+
+So all amino acids consist of four general structures:
+    1.) An amide group. This amide group is a molecule consisting of a nitrogen atom, covalently bonded to two hydrogen atoms.
+    2.) A carboxyl group. This carboxyl group consists of a carbon atom covalently bonded to an oxygen atom, which is in turn covalently bonded to a hydrogen atom. The carbon atom also has a double bond (hence the two lines between the carbon and lone oxygen.) I will explain double bonding in another post.
+    3.) An R Group (or Variable Group). This R Group basically consists of any type of molecule or atom that is able to bond with the central carbon atom. All amino acids will have a different R Group, and is what distinguishes one amino acid from the other.
+    4.) A lone hydrogen atom. This hydrogen atom has no purpose as far as I know, except for filling up space.
+
+# Bonding between two amino acids.
+As previously mentioned, these amino acids are considered the "building blocks" of proteins.
+Building blocks, in most scenarios, come with a certain way of being stuck to other building blocks, for example cement is used to attach bricks to one another.
+Amino acids are attached to one another by bonds, specifically peptide bonds. You do not have to worry about the specific name of these bonds, just keep in mind that these bonds are used to hold multiple atoms to one another.
+
+These peptide bonds between amino acids are formed by condensation reactions. As the name probably implies, these reactions involve water.
+Condensation reactions are basically when two small molecules form a larger molecules, alongside a smaller by-product molecule. Water is the by-product molecule made when two amino acids are attached to each other.
+Of course, where does this water molecule come from?
+To explain I will first remind you that water is made up of two hydrogen molecules and one oxygen molecule. Baring that in mind we can now look at an amino acid molecule and look at where those specific atoms can be found.
+
+(DIAGRAM OF AMINO ACID AND ARROWS N STUFF)
+
+The diagram highlights how abundant the two atoms are in the molecule. You might have noticed that the hydrogen atom below the central carbon atom has not been highlighted in the diagram. This is because the atom is not used during the condensation reaction, however it does have a use elsewhere.
+So how this works is that a hydrogen bond in the amide group, of the first amino acid, forms a water molecule with the oxygen and hydrogen atom on the carboxyl group of the second amino acid. This leads to a peptide bond being made. 
+
+(WHITE BOARD DIAGRAM OF TWO AMINO ACIDS AND WATER)
+
+You might also have noticed that the amino acid on the left has an amide group on it's left, meaning that amino acids can repeatedly bond to other amino acids, via a process called polymerisation. This can be used to form long chains of amino acids.
+
+OK great! We have successfuly bonded two amino acids and made a dipeptide... But it's still not a protein...
+
+I shall now introduce the different structures of the protein, these being the primary, secondary, tertiary and quaternary structures.
+These multiple, and seemingly different, structures of proteins might seem daunting and fairly intimidating to learn at first, but really they are quite simple to understand after getting your head around it.
+Also, as a small disclaimer, I will only gloss over the different bonds present in an amino acid, these being hydrogen, ionic and disulfide bonds. I have done this to reduce confusion, since I have already introduced many new concepts which have potential to confuse. To address this lack of information, in this post, I have decided to add any information to a second post, explaining any of the missing information that should be here.
+Moving on, I'll first introduce the primary structure of a protein.
+
+## Primary Structure 
+So to understand the idea of a "primary protein structure" is to understand what and how a polypeptide is made.
+Whoa, I know it's a big and fancy word. Basically, a polypeptide is a chain of many amino acids bonded together, as mentioned above.
+So this polypeptide is made by having multiple condensation reactions with many amino acids, which will presumably form a long chain.
+This long chain is the primary structure.
+
+## Secondary Structure
+At first glance the secondary structure will look a bit like a DNA molecule, since the secondary structure of a protein does have an alpha helix shape.
+So why does the secondary structure have an alpha helical shape?
+Well, the secondary structure is made when hydrogen bonds are formed between amino acids, causing the polypeptide chain to twist slightly, forming this alpha helix shape. Fairly simple.
+But where do the hydrogen bonds appear from?
+This bond is essentially made between an oxygen atom in one amino acid and a hydrogen atom in another.
+Caution: Hydrogen bonding is a fairly complex concept at this point in time, however I will explain what it is once I explain what electronegativity is and how intermolecular forces work.
+
+## Tertiary Structure
+Now the tertiary structure is basically what happens when you twist the alpha helix shape, from the secondary structure, even more. This, as expected, forms a fairly complex and specific 3D shape.
+This shape is brought about by even more bonds in the protein structure, these being disulfide and ionic bonds.
+Again, the only complexity found here is how the bonds are formed, which I will explain in a later post.
+
+## Quaternary Structure
+To finalise on this list of structures is the quaternary structure.
+Not all proteins have a quaternary structure, and will only develop as far as a tertiary structure.
+This quaternary structure consists of multiple polypeptide chains, which can contain other "prosthetic groups" which are basically non-protein chemical groups.
+
+There will be a, hopefully smaller, post explaining anything I might have missed out, including the bonding in the secondary, tertiary and quaternary structures.
+This may seem like a lot missed out, however I did not want to make this post any longer. Also, some concepts introduced here, such as electronegativities and the different types of chemical bonds will get their own post on the "Chemistry for Non Chemists" series, so keep an eye out for those.
+
+So that was a whistlestop tour on proteins. We now know that:
+* What amino acids are and their role in the formation of proteins.
+* The different parts of an amino acid.
+* How amino acids are joined together.
+* The different protein structures.
